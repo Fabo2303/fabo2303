@@ -6,6 +6,9 @@ Soy un estudiante de Ingeniería de Sistemas, actualmente en el 7mo ciclo.
 
 Mi primera experiencia en la programación fue java, aunque eso no significa que no le haya hechado un ojo a otros lenguajes.
 
+---
+⚠️⚠️ Portfolio en desarrollo ⚠️⚠️
+
 <!--
 **Fabo2303/fabo2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
